@@ -1,4 +1,4 @@
-## **Brain Tumor Classification:** 
+## **Brain Tumor Classification** 
 **A Comparative Analysis of Image-Based and Texture-Based Approaches**
 
 Brain tumor classification is a critical task in medical image analysis, with significant implications for diagnosis, treatment planning, and patient prognosis. Early and accurate identification of tumor type is crucial for guiding therapeutic interventions and improving patient outcomes. Magnetic Resonance Imaging (MRI) has emerged as a valuable tool for non-invasive brain tumor assessment, providing detailed anatomical information and enabling the visualization of tumor characteristics. In recent years, improvements in machine learning and deep learning techniques have revolutionised the field of medical image analysis, offering the potential for automated, objective and accurate tumour classification.
